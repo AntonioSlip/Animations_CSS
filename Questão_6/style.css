@@ -1,0 +1,29 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(https://temalguemassistindo.com.br/wp-content/uploads/2020/10/the-witcher-segunda-temporada.jpg) no-repeat center;
+    background-size: cover;
+}
+
+.conteudo {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(4, 0, 255);
+    position: relative;
+    animation: rotation 10s linear;
+}
+
+@keyframes rotation {
+    0%{transform: rotate(0);}
+    12%{transform: rotate(45deg);background-color: red;}
+    24%{transform: rotate(90deg);background-color: yellow;}
+    36%{transform: rotate(135deg);background-color: black;}
+    48%{transform: rotate(180deg);background-color: orange;}
+    60%{transform: rotate(225deg);background-color: green;}
+    72%{transform: rotate(270deg);background-color: gold;}
+    84%{transform: rotate(315deg);background-color: brown;}
+    100%{transform: rotate(360deg); background-color: pink;}
+}
