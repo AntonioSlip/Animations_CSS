@@ -1,3 +1,5 @@
+Site: https://animations-css.web.app
+
 # Animations_CSS
 A atividade consiste em criar páginas com animações utilizando HTML e CSS: 
 1. Crie um quadrado de 200px x 200px e posicione-o no centro da tela. Observe a centralização no eixo vertical e horizontal. Atribua uma cor qualquer. 
@@ -15,5 +17,3 @@ A atividade consiste em criar páginas com animações utilizando HTML e CSS:
 13. Crie 3 quadrados no centro da tela, e em seguida crie movimento para cima e para baixo infinitos. Cada quadrado deve iniciar seu movimento 2s após o anterior; 
 14. Faça um círculo de diâmetro 200px transformar-se em um retângulo de 200px por 100px ao passar com o cursor do mouse por cima do elemento. 
 15. Faça um círculo quicar na tela pelo menos 4 vezes, se deslocando da esquerda para direita;
-
-Site: https://animations-css.web.app
